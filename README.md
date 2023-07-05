@@ -1,9 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcNPiveaASVJjaXsHwuCavI8f7IPg-YmcWhcEKaWJn3C9RE_PRiK3e2v642a91v6n2Zc&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcNPiveaASVJjaXsHwuCavI8f7IPg-YmcWhcEKaWJn3C9RE_PRiK3e2v642a91v6n2Zc&usqp=CAU"></img>
-
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUVM8WTR2Jmdf0p4GWrViCroQ4svxZ8oWTKQ&usqp=CAU" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-crafterx&label=Profile%20views&color=0e75b6&style=flat" alt="code-crafterx" /> </p>
 
 - 📫 How to reach me **abhinavsb25@gmail.com**
 
